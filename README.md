@@ -1,4 +1,4 @@
-+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5609c9eb14b72301008a05b0&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5609c9eb14b72301008a05b0/build/latest) + 
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5609c9eb14b72301008a05b0&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5609c9eb14b72301008a05b0/build/latest)
 
 # 2048
 
