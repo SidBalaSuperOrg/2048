@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/BuddyBuild/BB.svg?style=svg&circle-token=c0c11ed4a42a9861e93efdbcac465a3f3948ca7d)](https://circleci.com/gh/BuddyBuild/BB)
+
 [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5609c9eb14b72301008a05b0&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5609c9eb14b72301008a05b0/build/latest)
 
 # 2048
